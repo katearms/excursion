@@ -25,7 +25,7 @@ h4 {
   font-size: 16 px;
 }
 
-h5 {
+footer {
   color: gray;
-  textalign: right;
+  text-align: right;
 }
