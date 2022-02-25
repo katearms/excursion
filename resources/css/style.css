@@ -1,2 +1,6 @@
 
-body {background-color: black;}
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
